@@ -46,7 +46,7 @@ public class Entrada {
         //si estuviese dentro de otro metodo no podria utilizarla
         //si yo defino la variable en el metodo mas grande si la podria utilizar para todos os metodos que estan dentro del metodo mas grande
 
-        //------------------------------------------------------------------------------------------------------------------------------------------------
+        //-----------------------------------------------------------------------------------------------------------------------------------------------
 
 
         System.out.println("El resultado de la evaluacion es "+acierto);
