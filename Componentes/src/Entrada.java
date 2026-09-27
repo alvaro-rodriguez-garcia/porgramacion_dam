@@ -35,7 +35,7 @@ public class Entrada {
 
 
         //por ejemplo vamos hacer una funcionalidad a un complejo
-        nombreLegal.length();//te dice la longitud
+        //te dice la longitud nombreLegal.length();
 
         //vamos a ver una variables no mutable
         final String DNI = "123A";
