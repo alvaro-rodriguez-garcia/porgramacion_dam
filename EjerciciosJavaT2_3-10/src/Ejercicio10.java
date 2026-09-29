@@ -24,6 +24,6 @@ public class Ejercicio10 {
         int restodecenas = restocentenas%10;
         System.out.println("Decenas "+decenas);
 
-        System.out.println("Unidades "+restodecenas);
+        System.out.println("Unidadess "+restodecenas);
     }
 }
